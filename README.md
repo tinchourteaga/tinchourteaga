@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/martin-ignacio-urteaga-naya" target="_blank">
+  <a href="https://linkedin.com/in/martin-ignacio-urteaga-naya" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/tincho1313" target="_blank">
+  <a href="https://discordapp.com/users/tincho1313" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://about.me/martinurteaganaya" target="_blank">
